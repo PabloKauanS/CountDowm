@@ -11,3 +11,6 @@ img{
 .detalhe-1,.detalhe-2{
   width: 100%
 }
+body{
+  overflow: hidden;
+}
