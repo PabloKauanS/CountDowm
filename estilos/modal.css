@@ -6,6 +6,7 @@
   display: none;
   place-content: center;
   background-color: rgba(0, 0, 0, 0.1);
+  animation: mostrar 1s;
   font-family: "Poppins";
 }
 .modal {

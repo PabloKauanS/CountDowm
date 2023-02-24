@@ -1,0 +1,9 @@
+@keyframes mostrar {
+  from {
+    opacity: 0;
+
+  }
+  to{
+    opacity: 1;
+  }
+}
